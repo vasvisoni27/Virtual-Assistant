@@ -1,3 +1,18 @@
-# Virtual-Assistant
-Developed a Python-based desktop assistant integrating Natural Language Processing (NLP) for voice/text command interpretation., Designed an intuitive GUI using Tkinter for interactive user experience., Implemented functionalities like web browsing, weather updates, time/date queries, app launching, and more. 
+# Virtual-Assistant-
 
+
+## Screenshots
+
+
+![project](https://user-images.githubusercontent.com/51821426/208213987-b66bfc6b-4dc5-43fe-9354-c247395a850f.jpg)
+
+## Installation
+
+- you just need to run below cmd.
+- it will be better if you creat virtual environment
+
+
+```bash
+  pip install -r requirement.txt
+```
+    
