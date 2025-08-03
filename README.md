@@ -1,5 +1,5 @@
 # Virtual-Assistant-
-
+Developed a Python-based desktop assistant integrating Natural Language Processing (NLP) for voice/text command interpretation.
 
 ## Screenshots
 
